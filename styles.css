@@ -1,13 +1,22 @@
 .heading{
     display: flex;
-    flex-direction: column;
+    flex-direction:column;
     align-items: center;
     background:rebeccapurple;
     color: ghostwhite;
+    border-radius:30px;
+    padding-bottom: 30px;
 }
 .hens-images{
+    padding-top:133px;
     display:flex;
     flex-direction: column;
     align-items: center;
+    align-content:space-between;
     background:orange;
+    border-radius:30px;
+}
+
+.images{
+    border-radius:10px;
 }
