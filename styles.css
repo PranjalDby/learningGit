@@ -20,3 +20,12 @@
 .images{
     border-radius:10px;
 }
+
+.paragraph{
+    font-family:Georgia, 'Times New Roman', Times, serif;
+    font-size:20px;
+    background:wheat;
+    padding-top:10px;
+    padding-bottom: 10px;
+    border-radius:10px;
+}
