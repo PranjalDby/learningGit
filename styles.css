@@ -1,0 +1,13 @@
+.heading{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    background:rebeccapurple;
+    color: ghostwhite;
+}
+.hens-images{
+    display:flex;
+    flex-direction: column;
+    align-items: center;
+    background:orange;
+}
